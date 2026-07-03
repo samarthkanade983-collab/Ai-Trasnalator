@@ -1,0 +1,9 @@
+Flask==3.0.2
+Flask-CORS==4.0.0
+deep-translator==1.11.4
+gTTS==2.5.1
+SpeechRecognition==3.10.1
+easyocr==1.7.1
+PyMuPDF==1.23.26
+gunicorn==21.2.0
+spacy==3.7.4

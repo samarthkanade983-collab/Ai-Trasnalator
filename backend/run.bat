@@ -10,5 +10,5 @@ echo 2. Waiting for backend to initialize...
 timeout /t 3 /nobreak > nul
 
 echo 3. Launching Flutter Frontend UI...
-cd /d "%~dp0..\ai_translator"
+cd /d "%~dp0..\frontend"
 flutter run
